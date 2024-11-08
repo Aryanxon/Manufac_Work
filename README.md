@@ -23,9 +23,9 @@ yarn dev
 ```
 ## Images
 First, your will see the  Maximum and Minimum Crop for Every Year
-![Screenshot Description](assets/first.png)
+![Screenshot Description](./assets/first.png)
 Then  when scroll down you will get to see the Average Yield and Cultivated Area between the years
-![Screenshot Description](assets/second.png)
+![Screenshot Description](./assets/second.png)
 
 
 ## Usage
