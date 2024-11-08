@@ -1,6 +1,6 @@
 # Aggriculture data analysis from 1950-2020
 
-This project is simply analysing agricultural data provided by National Data and Analytics Platform, NITI Aayog. In this project I have simply take the data from data.js file and use that data to do analysis.
+This project is simply analysing agricultural data provided by the National Data and Analytics Platform, NITI Aayog. In this project, I have simply taken the data from the data.js file and used that data to do analysis.
 
 ## Installation
 
@@ -22,10 +22,10 @@ Then to run the project use:
 yarn dev
 ```
 ## Images
-First your will see the  Maximum and Minimum Crop of Every Year
-![Screenshot Description](Assets/screenshot(4).png)
-Then  when scroll down you will get to see Average Yield and Cultivated Area between the years
-![Screenshot Description](Assets/screenshot(5).png)
+First, your will see the  Maximum and Minimum Crop for Every Year
+![Screenshot Description](assets/first.png)
+Then  when scroll down you will get to see the Average Yield and Cultivated Area between the years
+![Screenshot Description](assets/second.png)
 
 
 ## Usage
