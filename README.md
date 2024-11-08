@@ -14,7 +14,7 @@ git clone <file path>
 Then install the yarn in the respective folder
 
 ```bash
-npm install yarn
+yarn install
 ```
 Then to run the project use:
 
